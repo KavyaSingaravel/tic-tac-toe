@@ -1,0 +1,31 @@
+/* step 3 code */
+/*
+.cell {
+  height: 98px;
+  width: 98px;
+  border: 1px solid gray;
+  flex: 0 0 98px;
+  font-size: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: gray;
+}
+*/
+
+/* step 5 code */
+.cell {
+  height: 98px;
+  width: 98px;
+  border: 1px solid gray;
+  flex: 0 0 98px;
+  font-size: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: gray;
+}
+
+.cell .win {
+  color: green;
+}

@@ -1,0 +1,47 @@
+/* step 2 code */
+/*
+.game-board {
+  height: 300px;
+  width: 300px;
+  background-color: #FFFBD2;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+*/
+
+/* step 3 code */
+/*
+.game-board {
+  height: 300px;
+  width: 300px;
+  background-color: #FFFBD2;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  
+  border: 1px solid gray;
+  display: flex;
+  flex-wrap: wrap;
+}
+*/
+
+/* step 6 code */
+.game-board {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  display: flex;
+}
+
+.cells-container {
+  height: 300px;
+  width: 300px;
+  background-color: #FFFBD2;
+  
+  border: 1px solid gray;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 20px;
+}

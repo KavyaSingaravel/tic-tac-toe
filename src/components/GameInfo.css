@@ -1,0 +1,23 @@
+/* step 6 code */
+/*
+.game-info {
+  width: 200px;
+  height: 300px;
+  background-color: #E5FFFD;
+}
+*/
+
+/* step 7 code */
+.game-info {
+  width: 200px;
+  height: 300px;
+  background-color: #E5FFFD;
+}
+
+.game-info div {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  text-align: left;
+  color: grey;
+  font-size: 18px;
+}
